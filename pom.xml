@@ -81,6 +81,8 @@
 		<jetty.version>7.6.15.v20140411</jetty.version>
 		<cat.version>1.4.0</cat.version>
 		<logging.log4j.version>2.6.2</logging.log4j.version>
+		
+		
 		<springfox-swagger.version>2.6.0</springfox-swagger.version>
 	</properties>
 
